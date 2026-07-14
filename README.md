@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/3884-first-matching-character-from-both-ends) |
+## String
+|  |
+| ------- |
+| [3884-first-matching-character-from-both-ends](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/3884-first-matching-character-from-both-ends) |
 <!---LeetCode Topics End-->
