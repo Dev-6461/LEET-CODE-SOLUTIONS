@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,9 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
 | [3884-first-matching-character-from-both-ends](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/3884-first-matching-character-from-both-ends) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
