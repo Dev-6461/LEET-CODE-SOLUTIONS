@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/3884-first-matching-character-from-both-ends) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2300-successful-pairs-of-spells-and-potions) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
