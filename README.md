@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
