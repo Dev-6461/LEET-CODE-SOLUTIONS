@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0258-add-digits) |
 ## Binary Search
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0456-132-pattern) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
