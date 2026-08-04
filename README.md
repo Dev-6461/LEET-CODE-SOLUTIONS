@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0456-132-pattern](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
