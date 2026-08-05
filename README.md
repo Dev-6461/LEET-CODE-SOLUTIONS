@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -98,4 +99,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
