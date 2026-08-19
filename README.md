@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0456-132-pattern](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0456-132-pattern](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0456-132-pattern) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
