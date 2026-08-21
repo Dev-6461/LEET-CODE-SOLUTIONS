@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String Matching
