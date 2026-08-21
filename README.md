@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
