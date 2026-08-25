@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
