@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0881-boats-to-save-people) |
