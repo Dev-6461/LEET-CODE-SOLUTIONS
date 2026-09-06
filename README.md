@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/3884-first-matching-character-from-both-ends) |
 ## Simulation
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2351-first-letter-to-appear-twice](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
