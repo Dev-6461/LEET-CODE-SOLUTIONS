@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
