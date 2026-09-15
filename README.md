@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/2351-first-letter-to-appear-twice) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0190-reverse-bits) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
