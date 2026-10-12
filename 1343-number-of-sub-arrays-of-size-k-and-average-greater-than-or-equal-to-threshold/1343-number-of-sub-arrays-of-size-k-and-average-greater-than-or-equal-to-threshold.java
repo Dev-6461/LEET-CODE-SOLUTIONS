@@ -10,10 +10,10 @@ class Solution {
         }
         for(int i = k; i < arr.length; i++){
             sum = sum - arr[i-k] + arr[i];
-            if(sum/k >= threshold){
-                count++;
+                if(sum / k >= threshold){
+                    count++;
+                }
             }
-        }
-        return count;
+            return count;
     }
 }
