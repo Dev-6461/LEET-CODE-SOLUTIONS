@@ -234,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Dev-6461/LEET-CODE-SOLUTIONS/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
